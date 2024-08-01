@@ -10,7 +10,7 @@ For Node.js projects:
 npm install easy-currency-converter
 ```
 
-## API
+## Functions
 
 - constructor(apiUrl): Create a new CurrencyConverter instance.
 - apiUrl (optional): Specify a custom API endpoint. Default is 'https://api.exchangerate-api.com/v4/latest/USD'.
