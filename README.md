@@ -8,6 +8,7 @@ For Node.js projects:
 
 ```bash
 npm install easy-currency-converter
+```
 
 ## API
 
